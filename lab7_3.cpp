@@ -3,6 +3,7 @@ using namespace std;
 
 char before(char x){
 	//Write your function definition here
+
 }
 
 int main(){
